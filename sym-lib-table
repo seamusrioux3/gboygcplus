@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GCPlus")(type "KiCad")(uri "${KIPRJMOD}/GCPlus.kicad_sym")(options "")(descr ""))
+)
