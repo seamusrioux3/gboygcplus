@@ -1,4 +1,4 @@
-23449629019000573
+23451339183773793
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56118,6 +56118,13 @@ RKA2SGG055SMTR LFS
 0
 4
 4
+GCPlus
+SOP65P780X200-28N
+28-Lead Plastic Shrink Small Outline (SS) - 5.30 mm Body [SSOP]
+Integrated Circuit
+0
+28
+28
 GCPlus
 SSOP28_MC_MCH
 
